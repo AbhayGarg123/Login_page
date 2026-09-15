@@ -25,7 +25,7 @@ The page contains:
 
 - Clean and modern login interface
 - Two-column layout
-- CSS Grid based design
+- CSS flex based design
 - Styled input fields
 - Login button with hover effect
 - Forgot Password link
